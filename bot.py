@@ -101,7 +101,7 @@ def process_msg(update,context):
 
 def main() -> None:
     try:
-        updater = Updater('BOT TOKEN')
+        updater = Updater('5393032913:AAHo1cvkq4JVljmQfT_3UL8aFQ_H2fLY7w8')
 
         dispatcher = updater.dispatcher
 
